@@ -42,7 +42,7 @@ h1 {
 }
 
 .tecla { 3px 0 var(--cinza);
-  color: var(--vermelha);
+  color: black;
   cursor: pointer;
   height: 120px;
   font-size: 1.75em;
@@ -76,4 +76,34 @@ h1 {
 .tecla.active:focus,
 .tecla:active:focus {
   box-shadow: 3px 3px 0 var(--vermelha-escura) inset, 1px 1px 10px var(--luz);
+}
+
+.tecla_gtrr34{
+  background-image: url("../images/r34.jpg");
+  background-size: 149%;
+}
+
+.tecla_boxter{
+  background-image: url("../images/boxter.jpeg");
+  background-size: 135%;
+}
+
+.tecla_ferrari{
+  background-image: url("../images/ferrarif456.jpg");
+  background-size: 136%;
+}
+
+.tecla_maverick{
+  background-image: url("../images/maverick.jpeg");
+  background-size: 140%;
+}
+
+.tecla_mazda{
+  background-image: url("../images/maxda.webp");
+  background-size: 153%;
+}
+
+.tecla_opala{
+  background-image: url("../images/opala.webp");
+  background-size: 147%;
 }

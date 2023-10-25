@@ -35,13 +35,13 @@ h1 {
 .tecla {
   background-color: var(--branca);
   border-radius: 30px;
-  box-shadow: 3px
+  box-shadow: 3px;
   gap: 10px;
   grid-template-columns: repeat(3, 1fr);
   padding: 10px;
 }
 
-.tecla { 3px 0 var(--cinza);
+.tecla { 
   color: black;
   cursor: pointer;
   height: 120px;
@@ -81,29 +81,53 @@ h1 {
 .tecla_gtrr34{
   background-image: url("../images/r34.jpg");
   background-size: 149%;
+  
 }
 
 .tecla_boxter{
   background-image: url("../images/boxter.jpeg");
   background-size: 135%;
+  background-position: center;
 }
 
 .tecla_ferrari{
   background-image: url("../images/ferrarif456.jpg");
   background-size: 136%;
+  background-position: center;
 }
 
 .tecla_maverick{
   background-image: url("../images/maverick.jpeg");
   background-size: 140%;
+  background-position: center;
 }
 
 .tecla_mazda{
   background-image: url("../images/maxda.webp");
-  background-size: 153%;
+  background-size: 175%;
+  background-position: center;
 }
 
 .tecla_opala{
   background-image: url("../images/opala.webp");
   background-size: 147%;
+  background-position: center;
+}
+
+.tecla_F-TYPE{
+  background-image: url("../images/\ F-TYPE\ .jpeg");
+  background-size: 160%;
+  background-position: center;
+}
+
+.tecla_RS3{
+  background-image: url("../images/RS3.jpg");
+  background-size: 178%;
+  background-position: center;
+}
+
+.tecla_SUPRA{
+  background-image: url("../images/SUPRA.jpeg");
+  background-size: 150%;
+  background-position: center;
 }

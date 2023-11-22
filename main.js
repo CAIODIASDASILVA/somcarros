@@ -1,4 +1,4 @@
-document.querySelector('#som-tecla-clap').play()
+
 
 function tocaSomPom(){
     document.querySelector('#som-tecla-pom').play()

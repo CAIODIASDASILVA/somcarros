@@ -4,7 +4,7 @@ function tocaSomPom(){
     document.querySelector('#som-tecla-pom').play()
 }
 alert("teste")
-const listarDeTEclas = documente.querySelectorAll('.tecla')
+const listarDeTeclas = documente.querySelectorAll('.tecla')
 
 let contador = 0;
 

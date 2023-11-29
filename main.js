@@ -1,6 +1,6 @@
 
 alert("test")
-function tocaSompom(idElementoAudio){
+function tocaSom(idElementoAudio){
     document.querySelector(idElementoAudio).play()
 }
 

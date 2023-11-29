@@ -10,6 +10,7 @@ body {
   align-items: center;
   background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
   display: flex;
+  background-image: url(../images/velozes-e-furiosos-9.jpg);
   justify-content: center;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
